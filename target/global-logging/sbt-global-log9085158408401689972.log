@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(submit sonia.navas@agilogy.com 8FRY8nEB8A7tLref, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: submit[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sonianavas/IdeaProjects/objsets/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0mRunning scalafix on 4 Scala sources[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "objsets" assignment in "scala2-functional-programming" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: sonia.navas@agilogy.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: 8FRY8nEB8A7tLref[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[31merror[0m] [0m[0mSubmission failed.[0m
+[0m[[0m[31merror[0m] [0m[0mThere was something wrong while attempting to submit.[0m
+[0m[[0m[31merror[0m] [0m[0mCoursera says:[0m
+[0m[[0m[31merror[0m] [0m[0mYou used an invalid email or your token may have expired. Please make sure you have entered all fields correctly. Try generating a new token if the issue still persists. (Status 401)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 31/01/2022 11:53:57[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
